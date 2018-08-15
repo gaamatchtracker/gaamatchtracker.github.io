@@ -1,1 +1,1 @@
-[{'ApiPath': '/home/ubuntu/post_parsing/github/Club/Dublin', 'Name': u"Men's Football", 'HasChildren': True}, {'ApiPath': '/home/ubuntu/post_parsing/github/Club/Dublin', 'Name': u"Men's Hurling", 'HasChildren': True}]
+[{"ApiPath": "/home/ubuntu/post_parsing/github/Club/Dublin", "Name": "Men's Football", "HasChildren": true}, {"ApiPath": "/home/ubuntu/post_parsing/github/Club/Dublin", "Name": "Men's Hurling", "HasChildren": true}]
